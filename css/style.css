@@ -34,6 +34,9 @@ a {
     padding: 0 20px;
 }
 
+.clr {
+    clear: both;
+}
 .text-primary {
     color: #f7c08a;
 }
@@ -71,8 +74,8 @@ a {
     color: #333;
 }
 .bg-primary {
-    background: #333;
-    color: #f7c08a;
+    background: #f7c08a ;
+    color: #333;
 }
 
 /* Navbar */
@@ -160,5 +163,23 @@ a {
     padding-bottom: 30px;
 }
 
+/* Features */
 
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
 
+.box i {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}
