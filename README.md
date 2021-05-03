@@ -12,6 +12,7 @@ What i learn creating this project
 4. CSS Best practices
 5. Reuseability
 
+## Update
 
-
+Added Responsiveness to the site using media query
 ![Alt text](/img/project.png?raw=true "Optional Title") 
